@@ -1,7 +1,7 @@
-# Packula website
+# Snout website
 
-This repo contains the code that drives the [Packula] website.
+This repo contains the code that drives the [Snout] website.
 
 <!-- References -->
 
-[packula]: https://packula.dev/
+[snout]: https://snout.dev/
