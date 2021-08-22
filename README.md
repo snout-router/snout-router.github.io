@@ -1,7 +1,7 @@
-# Snout website
+# Snout Router Website
 
-This repo contains the code that drives the [Snout] website.
+This repo contains the code that drives the [Snout Router] website.
 
 <!-- References -->
 
-[snout]: https://snout.dev/
+[snout router]: https://snout.dev/
